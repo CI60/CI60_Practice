@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello CI60
-=======
-Hello
->>>>>>> 7c85e26846e1cfeb06422fe2a155a487ff74d618
